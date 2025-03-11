@@ -1,4 +1,4 @@
-#fromt he dev branch
+#from the dev branch
 # #90DaysOfDevOps Challenge
 
 ## Learn, Upskill, Grow with the Community
